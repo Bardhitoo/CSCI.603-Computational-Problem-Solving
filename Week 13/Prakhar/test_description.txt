@@ -1,0 +1,6 @@
+
+test1- When there is a rock at the exit point none of the points can be used to escape
+
+test2- Only one point can be used to escape
+
+test3- All points on the pond are isolated - Graph will have no edges just vertexes 

@@ -1,0 +1,13 @@
+1. Replace one letter for another (e.g. peaple → people)
+2. Remove a letter (e.g. addd → add)
+
+Test Cases:
+this line is good
+asd. newlqwed
+thks linw can bc f8xed
+hrllo
+m7 nsme is brdh
+h3llo w0rld
+i w4nt t0 tak3 a n4p
+lpve my d0g
+bear is my d0g

@@ -1,0 +1,38 @@
+==== atotc.txt ====
+
+Question 1:
+	naive_hash_func
+		init_table_size   hashmap_imbalance
+		100  			  108.93
+		1000		      34.23397435897436
+
+Question 2:
+	improved_hash_func
+		init_table_size   hashmap_imbalance
+		100   	 		  108.93
+		1000   			  9.993
+
+Reference (python's buidin hash() function):
+	hash_function 
+		init_table_size   hashmap_imbalance
+		100    			  108.93
+		1000   			  9.993
+
+
+==== mb.txt ====
+
+naive_hash_func
+	init_table_size   hashmap_imbalance
+	100 			  33.05
+	1000              15.44927536231884
+
+improved_hash_func
+	init_table_size   hashmap_imbalance
+	100               33.05
+    1000              2.5358255451713396
+
+hash_function
+	init_table_size   hashmap_imbalance
+	100    			  33.05
+	1000    		  2.546875
+
